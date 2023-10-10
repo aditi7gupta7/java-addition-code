@@ -1,7 +1,7 @@
 version: 2.1
 
 orbs:
-  common-config: aditi7gupta7/common-config-javaa@1.0.0
+  common-config: aditi7gupta7/common-config@1.0.0
 
 workflows:
   version: 2
